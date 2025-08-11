@@ -51,11 +51,7 @@ I ship with **.NET**, **React/Next.js**, **NestJS/Node.js**, and relational data
 
 ---
 
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janindu-Amarasekara&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janindu-Amarasekara&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" height="150" />
-</p>
+
 
 <!-- Optionally replace the two cards above with your auto-generated metrics.svg (includes private commits):
 <p align="center">
