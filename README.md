@@ -1,12 +1,12 @@
 <!-- Hero -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Janindu+Chameen;Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+%26+Clean+Web+Apps" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=00F7FF&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Janindu+Amarasekara;Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+%26+Clean+Web+Apps" alt="Typing Animation">
 </p>
 
 <!-- Links -->
 <p align="center">
   <a href="mailto:janindu9887@gmail.com"><img src="https://img.shields.io/badge/Email-janindu9887%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/janindu-chameen-680282164"><img src="https://img.shields.io/badge/LinkedIn-Janindu%20Chameen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/janindu-amarasekara-680282164/"><img src="https://img.shields.io/badge/LinkedIn-Janindu%20Chameen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Janindu-Amarasekara&style=flat-square&color=brightgreen" alt="profile views" />
 </p>
 
