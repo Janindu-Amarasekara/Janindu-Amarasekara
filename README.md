@@ -61,15 +61,7 @@ I ship with **.NET**, **React/Next.js**, **NestJS/Node.js**, and relational data
 
 ---
 
-## 📌 Featured Projects
-- **HMS** – Housing Management System (Next.js + NestJS + Supabase)  
-  <a href="https://github.com/your-org/your-hms-repo"><img src="https://img.shields.io/badge/Repo-open-1f6feb?style=flat-square&logo=github" /></a>
-- **.NET Clean API Template** – Opinionated starter with auth, mapping, validation  
-  <a href="https://github.com/your-org/dotnet-clean-template"><img src="https://img.shields.io/badge/Repo-open-1f6feb?style=flat-square&logo=github" /></a>
-- **React/Nest Monorepo** – Turborepo, ESLint/Prettier, CI‑ready  
-  <a href="https://github.com/your-org/react-nest-monorepo"><img src="https://img.shields.io/badge/Repo-open-1f6feb?style=flat-square&logo=github" /></a>
 
----
 
 ## 🤝 Let’s Collaborate
 If you’re building with **.NET**, **React/Next.js**, or **NestJS**, say hi!  
